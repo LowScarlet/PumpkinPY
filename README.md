@@ -4,7 +4,7 @@
     </b>
 </h1>
 <p>
-  Berbagai snippet untuk bahasa pemerograman python
+  Various snippets for the Python programming language
 </p>
 
 <h2 align="center">
